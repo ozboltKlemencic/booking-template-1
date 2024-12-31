@@ -1,0 +1,145 @@
+{
+  "stranke": [
+    {
+      "id": "1",
+      "ime": "Jozica",
+      "priimek": "Novak",
+      "email": "jozica.novak@gmail.com",
+      "narocila": []
+    },
+    {
+      "id": "2",
+      "ime": "Blaz",
+      "priimek": "Kosir",
+      "email": "blaz.kosir@gmail.com",
+      "narocila": []
+    },
+    {
+      "id": "3",
+      "ime": "Nika",
+      "priimek": "Koncan",
+      "email": "nika.koncan@gmail.com",
+      "narocila": []
+    },
+    {
+      "id": 4,
+      "ime": "ozbolt",
+      "priimek": "klemencic",
+      "email": "ozbolt.klemencic@gamil.com",
+      "narocila": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "14",
+        "15",
+        "16",
+        "17",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "29",
+        "39",
+        "40",
+        "50",
+        "51",
+        "53",
+        "54",
+        "56"
+      ]
+    },
+    {
+      "id": "5",
+      "ime": "fgfdgdf",
+      "priimek": "sdfsdfsd",
+      "email": "ozbolt.1235.turbo@gmail.com",
+      "narocila": [
+        "13",
+        "18",
+        "19",
+        "20",
+        "21",
+        "31",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "41",
+        "42",
+        "46",
+        "55",
+        "58",
+        "59"
+      ]
+    },
+    {
+      "id": "6",
+      "ime": "fdf",
+      "priimek": "gdfgdfg",
+      "email": "fghfghgf@fgdgdf.ghg",
+      "narocila": [
+        "22"
+      ]
+    },
+    {
+      "id": "7",
+      "ime": "Ozbolt",
+      "priimek": "Klemencic",
+      "email": "ozbolt.klemencic@gmail.com",
+      "narocila": [
+        "28",
+        "30"
+      ]
+    },
+    {
+      "id": "8",
+      "ime": "dfsdf",
+      "priimek": "fdsfsd",
+      "email": "hgfhgfhfghbnvbcr@gfdgfd.fg",
+      "narocila": [
+        "32",
+        "45",
+        "48",
+        "49",
+        "52",
+        "57"
+      ]
+    },
+    {
+      "id": "9",
+      "ime": "Tg",
+      "priimek": "Bb",
+      "email": "Jjjn@hh.hh",
+      "narocila": [
+        "43"
+      ]
+    },
+    {
+      "id": "10",
+      "ime": "Ff",
+      "priimek": "Gg",
+      "email": "Cccf.gff@tff.htg",
+      "narocila": [
+        "44"
+      ]
+    },
+    {
+      "id": "11",
+      "ime": "fdf",
+      "priimek": "fdsfsd",
+      "email": "fghfghgf@fgdgdf.jj",
+      "narocila": [
+        "47"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "1": {
+    "id": "1",
+    "datumRezervacije": "2024-2-2",
+    "datumTermina": "2024-6-2",
+    "ura": "12",
+    "storitevId": 4,
+    "mehanikId": 2,
+    "strankaId": 2,
+    "status": "potrjena"
+  },
+  "2": {
+    "id": "2",
+    "datumRezervacije": "2024-2-2",
+    "datumTermina": "2024-9-2",
+    "ura": "15",
+    "storitevId": 3,
+    "mehanikId": 2,
+    "strankaId": 1,
+    "status": "čaka na potrditev"
+  },
+  "3": {
+    "id": "3",
+    "datumRezervacije": "2024-2-2",
+    "datumTermina": "2024-2-6",
+    "ura": "9",
+    "storitevId": 2,
+    "mehanikId": 2,
+    "strankaId": 1,
+    "status": "preklicana"
+  },
+  "4": {
+    "id": 4,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "7",
+    "storitevId": "2",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "5": {
+    "id": 5,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "8",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "6": {
+    "id": 6,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "9",
+    "storitevId": "8",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "7": {
+    "id": 7,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "6",
+    "storitevId": "6",
+    "mehanikId": "2",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "8": {
+    "id": 8,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "7",
+    "storitevId": "6",
+    "mehanikId": "2",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "9": {
+    "id": 9,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "10",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "10": {
+    "id": 10,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "11",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "11": {
+    "id": 11,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "12",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "12": {
+    "id": 12,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "13",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "13": {
+    "id": 13,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-30",
+    "ura": "7",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "14": {
+    "id": 14,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-30",
+    "ura": "8",
+    "storitevId": "4",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "15": {
+    "id": 15,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-30",
+    "ura": "9",
+    "storitevId": "5",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "16": {
+    "id": 16,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-30",
+    "ura": "10",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "17": {
+    "id": 17,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "7",
+    "storitevId": "5",
+    "mehanikId": "3",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "18": {
+    "id": 18,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-30",
+    "ura": "7",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "19": {
+    "id": 19,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-30",
+    "ura": "8",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "20": {
+    "id": 20,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-30",
+    "ura": "9",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "21": {
+    "id": 21,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-30",
+    "ura": "8",
+    "storitevId": "5",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "22": {
+    "id": 22,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-30",
+    "ura": "7",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "6",
+    "status": "potrjena"
+  },
+  "23": {
+    "id": 23,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-30",
+    "ura": "10",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "24": {
+    "id": 24,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-30",
+    "ura": "10",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "25": {
+    "id": 25,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-30",
+    "ura": "8",
+    "storitevId": "5",
+    "mehanikId": "2",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "26": {
+    "id": 26,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "9",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "27": {
+    "id": 27,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-31",
+    "ura": "11",
+    "storitevId": "4",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "28": {
+    "id": 28,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-31",
+    "ura": "11",
+    "storitevId": "4",
+    "mehanikId": "1",
+    "strankaId": "7",
+    "status": "potrjena"
+  },
+  "29": {
+    "id": 29,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-31",
+    "ura": "12",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "30": {
+    "id": 30,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-31",
+    "ura": "7",
+    "storitevId": "6",
+    "mehanikId": "2",
+    "strankaId": "7",
+    "status": "potrjena"
+  },
+  "31": {
+    "id": 31,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "12",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "32": {
+    "id": 32,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-31",
+    "ura": "13",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "8",
+    "status": "potrjena"
+  },
+  "33": {
+    "id": 33,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "11",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "34": {
+    "id": 34,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "7",
+    "storitevId": "5",
+    "mehanikId": "3",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "35": {
+    "id": 35,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "5",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "36": {
+    "id": 36,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-31",
+    "ura": "12",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "37": {
+    "id": 37,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "13",
+    "storitevId": "5",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "38": {
+    "id": 38,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-31",
+    "ura": "7",
+    "storitevId": "6",
+    "mehanikId": "2",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "39": {
+    "id": 39,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-31",
+    "ura": "13",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "40": {
+    "id": 40,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "12",
+    "storitevId": "7",
+    "mehanikId": "2",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "41": {
+    "id": 41,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "11",
+    "storitevId": "5",
+    "mehanikId": "2",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "42": {
+    "id": 42,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "7",
+    "mehanikId": "2",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "43": {
+    "id": 43,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "7",
+    "storitevId": "6",
+    "mehanikId": "2",
+    "strankaId": "9",
+    "status": "potrjena"
+  },
+  "44": {
+    "id": 44,
+    "datumRezervacije": "2025-01-02",
+    "datumTermina": "2024-12-31",
+    "ura": "6",
+    "storitevId": "6",
+    "mehanikId": "2",
+    "strankaId": "10",
+    "status": "potrjena"
+  },
+  "45": {
+    "id": 45,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "9",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "8",
+    "status": "potrjena"
+  },
+  "46": {
+    "id": 46,
+    "datumRezervacije": "2025-01-03",
+    "datumTermina": "2024-12-31",
+    "ura": "8",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "47": {
+    "id": 47,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-31",
+    "ura": "13",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": "11",
+    "status": "potrjena"
+  },
+  "48": {
+    "id": 48,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": "8",
+    "status": "potrjena"
+  },
+  "49": {
+    "id": 49,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "5",
+    "mehanikId": "1",
+    "strankaId": "8",
+    "status": "potrjena"
+  },
+  "50": {
+    "id": 50,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "51": {
+    "id": 51,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "52": {
+    "id": 52,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "8",
+    "status": "potrjena"
+  },
+  "53": {
+    "id": 53,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "54": {
+    "id": 54,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "55": {
+    "id": 55,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "5",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "56": {
+    "id": 56,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "4",
+    "mehanikId": "1",
+    "strankaId": 4,
+    "status": "potrjena"
+  },
+  "57": {
+    "id": 57,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "8",
+    "status": "potrjena"
+  },
+  "58": {
+    "id": 58,
+    "datumRezervacije": "2024-12-31",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "5",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  },
+  "59": {
+    "id": 59,
+    "datumRezervacije": "2025-01-09",
+    "datumTermina": "2024-12-31",
+    "ura": "10",
+    "storitevId": "7",
+    "mehanikId": "1",
+    "strankaId": "5",
+    "status": "potrjena"
+  }
+}

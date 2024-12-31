@@ -1,0 +1,124 @@
+{
+  "storitve": [
+    {
+      "id": "1",
+      "naziv": "Menjava olja",
+      "value": "menjava_olja",
+      "cena": "40€",
+      "trajanje": "60 min",
+      "tip": "Hitri servis"
+    },
+    {
+      "id": "2",
+      "naziv": "Menjava filtrov",
+      "value": "menjava_filtrov",
+      "cena": "25€",
+      "trajanje": "45 min",
+      "tip": "Hitri servis"
+    },
+    {
+      "id": "3",
+      "naziv": "Dopolnitev tekočin",
+      "value": "dopolnitev_tekočin",
+      "cena": "20€",
+      "trajanje": "30 min",
+      "tip": "Hitri servis"
+    },
+    {
+      "id": "4",
+      "naziv": "Preverjanje akumulatorja",
+      "value": "preverjanje_akumulatorja",
+      "cena": "15€",
+      "trajanje": "20 min",
+      "tip": "Hitri servis"
+    },
+    {
+      "id": "5",
+      "naziv": "Montaža pnevmatik",
+      "value": "montaža_pnevmatik",
+      "cena": "30€",
+      "trajanje": "30 min",
+      "tip": "Vulkanizerstvo"
+    },
+    {
+      "id": "6",
+      "naziv": "Uravnoteženje pnevmatik",
+      "value": "uravnoteženje_pnevmatik",
+      "cena": "20€",
+      "trajanje": "25 min",
+      "tip": "Vulkanizerstvo"
+    },
+    {
+      "id": "7",
+      "naziv": "Popravilo pnevmatik",
+      "value": "popravilo_pnevmatik",
+      "cena": "15€",
+      "trajanje": "15 min",
+      "tip": "Vulkanizerstvo"
+    },
+    {
+      "id": "8",
+      "naziv": "Geometrija koles",
+      "value": "geometrija_koles",
+      "cena": "50€",
+      "trajanje": "45 min",
+      "tip": "Vulkanizerstvo"
+    },
+    {
+      "id": "9",
+      "naziv": "Popravilo zavor",
+      "value": "popravilo_zavor",
+      "cena": "60€",
+      "trajanje": "90 min",
+      "tip": "Popravila"
+    },
+    {
+      "id": "10",
+      "naziv": "Popravilo motorja",
+      "value": "popravilo_motorja",
+      "cena": "200€",
+      "trajanje": "180 min",
+      "tip": "Popravila"
+    },
+    {
+      "id": "11",
+      "naziv": "Popravilo vzmetenja",
+      "value": "popravilo_vzmetenja",
+      "cena": "150€",
+      "trajanje": "120 min",
+      "tip": "Popravila"
+    },
+    {
+      "id": "12",
+      "naziv": "Popravilo izpušnega sistema",
+      "value": "popravilo_izpušnega_sistema",
+      "cena": "100€",
+      "trajanje": "90 min",
+      "tip": "Popravila"
+    },
+    {
+      "id": "13",
+      "naziv": "Električna diagnostika",
+      "value": "električna_diagnostika",
+      "cena": "50€",
+      "trajanje": "60 min",
+      "tip": "Diagnostika"
+    },
+    {
+      "id": "14",
+      "naziv": "Diagnostika motorja",
+      "value": "diagnostika_motorja",
+      "cena": "70€",
+      "trajanje": "75 min",
+      "tip": "Diagnostika"
+    },
+    {
+      "id": "15",
+      "naziv": "Diagnostika klimatske naprave",
+      "value": "diagnostika_klimatske_naprave",
+      "cena": "45€",
+      "trajanje": "45 min",
+      "tip": "Diagnostika"
+    }
+  ]
+}
