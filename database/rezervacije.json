@@ -588,5 +588,35 @@
     "mehanikId": "1",
     "strankaId": "5",
     "status": "potrjena"
+  },
+  "60": {
+    "id": 60,
+    "datumRezervacije": "2025-01-22",
+    "datumTermina": "2024-12-31",
+    "ura": "8",
+    "storitevId": "6",
+    "mehanikId": "1",
+    "strankaId": "12",
+    "status": "potrjena"
+  },
+  "61": {
+    "id": 61,
+    "datumRezervacije": "2025-01-07",
+    "datumTermina": "2024-12-31",
+    "ura": "7",
+    "storitevId": "2",
+    "mehanikId": "2",
+    "strankaId": "13",
+    "status": "potrjena"
+  },
+  "62": {
+    "id": 62,
+    "datumRezervacije": "2025-01-01",
+    "datumTermina": "2024-12-31",
+    "ura": "6",
+    "storitevId": "13",
+    "mehanikId": "2",
+    "strankaId": "14",
+    "status": "potrjena"
   }
 }

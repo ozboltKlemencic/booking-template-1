@@ -140,6 +140,33 @@
       "narocila": [
         "47"
       ]
+    },
+    {
+      "id": "12",
+      "ime": "Anton ",
+      "priimek": "Klemencic",
+      "email": "Anton.klemencic@gmail.com",
+      "narocila": [
+        "60"
+      ]
+    },
+    {
+      "id": "13",
+      "ime": "Anton ",
+      "priimek": "Klemenčič ",
+      "email": "Rotacijska@gmail.com",
+      "narocila": [
+        "61"
+      ]
+    },
+    {
+      "id": "14",
+      "ime": "marko",
+      "priimek": "klemencic",
+      "email": "markoklemencic243@gmail.com",
+      "narocila": [
+        "62"
+      ]
     }
   ]
 }
